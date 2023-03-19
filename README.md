@@ -19,7 +19,7 @@ After doing so, once the page is open click on any of the buttons to see a speci
 ## Skills used to create this project
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=jquery" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" />
   </a>
 </p>
 
