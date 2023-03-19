@@ -23,5 +23,8 @@ After doing so, once the page is open click on any of the buttons to see a speci
   </a>
 </p>
 
+## Live Project Link 
+
+[jQueryAnimation](https://drsalins.github.io/jQueryAnimations/)
 ## License
 [Siddarth_Salins_Mudaliar]
